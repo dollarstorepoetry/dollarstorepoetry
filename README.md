@@ -1,7 +1,7 @@
 - hello i am @dollarstorepoetry
-- interested in NLP, data analysis, things such as
-- familiar with python, java, c++
-- currently "learning" (procrastinating) matlab, html/css/js
+- we do a little coding
+- know: python, java, c/c++
+- learning: rust, html, matlab
 - socials: email mailto:nicholasagrudzinski@gmail.com | linkedin https://www.linkedin.com/in/nicholas-a-grudzinski/ | discord @dollarstorepoetry
 
 <!---
