@@ -1,8 +1,5 @@
 - hello i am @dollarstorepoetry
-- we do a little coding
-- know: python, java, c/c++
-- learning: rust, html, matlab
-- socials: email mailto:nicholasagrudzinski@gmail.com | linkedin https://www.linkedin.com/in/nicholas-a-grudzinski/ | discord @dollarstorepoetry
+- will i ever write more than a silly little script? idk
 
 <!---
 dollarstorepoetry/dollarstorepoetry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
